@@ -18,7 +18,6 @@ class Students extends Model
 	    {
 	        return $this->data;
 	    }
-
 }
 
 ?>
